@@ -61,5 +61,3 @@ Las capturas de pruebas de ejecución se encuentran en la carpeta `capturas/`:
 - `prueba_validaciones.png`: validación de cantidad y calificación fuera de rango.
 - `prueba_otro_grupo.png`: repetición del programa para procesar otro grupo.
 
-## Repositorio
-**Enlace del repositorio público:** [Pegar aquí el enlace del repositorio de GitHub después de crearlo y publicarlo].
