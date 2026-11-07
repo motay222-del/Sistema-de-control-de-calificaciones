@@ -55,9 +55,3 @@ g++ control_calificaciones.cpp -o control_calificaciones
 ./control_calificaciones
 ```
 
-## Capturas de pantalla
-Las capturas de pruebas de ejecución se encuentran en la carpeta `capturas/`:
-- `prueba_grupo.png`: ejecución con estudiantes aprobados y reprobados.
-- `prueba_validaciones.png`: validación de cantidad y calificación fuera de rango.
-- `prueba_otro_grupo.png`: repetición del programa para procesar otro grupo.
-
