@@ -1,8 +1,8 @@
 # Sistema de control de calificaciones de un centro educativo
 
 ## Datos del estudiante
-- **Nombre:** Fiudel Abel Reyes Piña
-- **Matrícula:** [Escribir matrícula]
+- **Nombre:** Johan Mota Romero 
+- **Matrícula:** 2024-3567
 - **Asignatura:** Lógica de Programación
 - **Profesor:** Gamalier Reyes del Carmen
 
